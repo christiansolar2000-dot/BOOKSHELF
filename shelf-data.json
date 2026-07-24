@@ -108,5 +108,17 @@
     "createdAt": "2026-07-21T15:21:36.362Z",
     "pdfPath": "pdfs/mrusx6y2egrw.pdf",
     "pdfUrl": "https://raw.githubusercontent.com/christiansolar2000-dot/BOOKSHELF/main/pdfs/mrusx6y2egrw.pdf"
+  },
+  {
+    "id": "mryejrysg9xz",
+    "title": "Nestor Makhno WIKI PAGE",
+    "author": "",
+    "type": "external",
+    "color": "#ff0000",
+    "notes": [],
+    "createdAt": "2026-07-24T03:50:20.500Z",
+    "mediaUrl": "https://en.wikipedia.org/wiki/Nestor_Makhno",
+    "duration": "",
+    "timestamp": null
   }
 ]
