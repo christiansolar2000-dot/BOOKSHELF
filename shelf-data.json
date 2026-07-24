@@ -120,5 +120,17 @@
     "mediaUrl": "https://en.wikipedia.org/wiki/Nestor_Makhno",
     "duration": "",
     "timestamp": null
+  },
+  {
+    "id": "mryek6tmi5ov",
+    "title": "Platformism WIKI PAGE",
+    "author": "",
+    "type": "external",
+    "color": "#ff0000",
+    "notes": [],
+    "createdAt": "2026-07-24T03:50:39.754Z",
+    "mediaUrl": "https://en.wikipedia.org/wiki/Platformism",
+    "duration": "",
+    "timestamp": null
   }
 ]
