@@ -155,5 +155,17 @@
     "createdAt": "2026-07-24T04:17:28.780Z",
     "pdfPath": "pdfs/mryfiocsknf3.pdf",
     "pdfUrl": "https://raw.githubusercontent.com/christiansolar2000-dot/BOOKSHELF/main/pdfs/mryfiocsknf3.pdf"
+  },
+  {
+    "id": "mrynulrr8q7d",
+    "title": "MARXIST.ORG",
+    "author": "",
+    "type": "external",
+    "color": "#ff0000",
+    "notes": [],
+    "createdAt": "2026-07-24T08:10:42.231Z",
+    "mediaUrl": "https://www.marxists.org/",
+    "duration": "",
+    "timestamp": null
   }
 ]
