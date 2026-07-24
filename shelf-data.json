@@ -167,5 +167,16 @@
     "mediaUrl": "https://www.marxists.org/",
     "duration": "",
     "timestamp": null
+  },
+  {
+    "id": "mrynvw2vdr39",
+    "title": "Selected Military Writings of Mao Tse-Tung",
+    "author": "Mao Tse-Tung",
+    "type": "pdf",
+    "color": "#ff0000",
+    "notes": [],
+    "createdAt": "2026-07-24T08:11:42.247Z",
+    "pdfPath": "pdfs/mrynvw2vdr39.pdf",
+    "pdfUrl": "https://raw.githubusercontent.com/christiansolar2000-dot/BOOKSHELF/main/pdfs/mrynvw2vdr39.pdf"
   }
 ]
