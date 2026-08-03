@@ -189,5 +189,16 @@
     "createdAt": "2026-07-24T08:12:23.618Z",
     "pdfPath": "pdfs/mrynws02n7ra.pdf",
     "pdfUrl": "https://raw.githubusercontent.com/christiansolar2000-dot/BOOKSHELF/main/pdfs/mrynws02n7ra.pdf"
+  },
+  {
+    "id": "mscrrh05wyll",
+    "title": "The Work of Art in the Age of Mechanical Reproduction",
+    "author": "Walter Benjamin",
+    "type": "pdf",
+    "color": "#ff0000",
+    "notes": [],
+    "createdAt": "2026-08-03T05:09:01.013Z",
+    "pdfPath": "pdfs/mscrrh05wyll.pdf",
+    "pdfUrl": "https://raw.githubusercontent.com/christiansolar2000-dot/BOOKSHELF/main/pdfs/mscrrh05wyll.pdf"
   }
 ]
