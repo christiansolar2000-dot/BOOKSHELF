@@ -200,5 +200,16 @@
     "createdAt": "2026-08-03T05:09:01.013Z",
     "pdfPath": "pdfs/mscrrh05wyll.pdf",
     "pdfUrl": "https://raw.githubusercontent.com/christiansolar2000-dot/BOOKSHELF/main/pdfs/mscrrh05wyll.pdf"
+  },
+  {
+    "id": "mscrrroecwqn",
+    "title": "Theses on the Philosophy of History",
+    "author": "Walter Benjamin",
+    "type": "pdf",
+    "color": "#ff0000",
+    "notes": [],
+    "createdAt": "2026-08-03T05:09:14.846Z",
+    "pdfPath": "pdfs/mscrrroecwqn.pdf",
+    "pdfUrl": "https://raw.githubusercontent.com/christiansolar2000-dot/BOOKSHELF/main/pdfs/mscrrroecwqn.pdf"
   }
 ]
